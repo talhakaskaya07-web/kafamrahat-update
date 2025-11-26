@@ -1,6 +1,6 @@
 {
-  "version": 106,
+  "version": 999,
   "update_url": "https://play.google.com/store/apps/details?id=com.ksky.kafamrahat",
-  "force": false,
-  "message": "Yeni özellikler ve hatalar giderildi. Güncellemeni tavsiye ederiz."
+  "force": true,
+  "message": "TEST MODU – GÜNCELLEME EKRANI ÇALIŞIYOR MU DİYE BAKIYORUZ!"
 }
